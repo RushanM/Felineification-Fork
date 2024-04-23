@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "description": "§d| §r§l§8 Felineification by §r§6ziwie §d |\n§d| §r§l§8 Fork by §r§6deflecta §d |",
+        "furry": true,
+        "name": "§c§lFelineification Fork",
+        "pack_format": 15,
+        "supported_formats": {
+            "max_inclusive": 31,
+            "min_inclusive": 16
+        }
+    }
+}
