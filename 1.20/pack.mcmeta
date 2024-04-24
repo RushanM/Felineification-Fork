@@ -5,7 +5,7 @@
     },
     "pack": {
         "description": {
-            "fallback": "§d| §7Makes your game more §6feline§7 §d|",
+            "fallback": "§d| §7Makes your game more §6feline §d|",
             "translate": "minecraft.resource_pack.felineificationfork"
         },
         "furry": true,
