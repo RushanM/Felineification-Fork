@@ -1,0 +1,11 @@
+{
+    "current": {
+        "version_number": "1.20-0.3"
+    },
+    "formatVersion": 1,
+    "remote": {
+        "game_version": "current",
+        "modrinth_project_id": "felineification-fork",
+        "type": "modrinth"
+    }
+}

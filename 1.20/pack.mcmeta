@@ -1,12 +1,20 @@
 {
+    "credits": {
+        "felineification_by": "zir",
+        "fork_by": "Deflecta"
+    },
     "pack": {
-        "description": "§d| §r§l§8 Felineification by §r§6ziwie §d |\n§d| §r§l§8 Fork by §r§6deflecta §d |",
+        "description": {
+            "fallback": "§d| §7Makes your game more §6feline§7 §d|",
+            "translate": "minecraft.resource_pack.felineificationfork"
+        },
         "furry": true,
         "name": "§c§lFelineification Fork",
         "pack_format": 15,
-        "supported_formats": {
-            "max_inclusive": 31,
-            "min_inclusive": 16
-        }
+        "supported_formats": [
+            15,
+            32
+        ],
+        "version": "1.20-0.3"
     }
 }
