@@ -10,6 +10,8 @@
     <br>
 </div>
 
+A modified version of [**Felineification 16x**](https://modrinth.com/resourcepack/felineification-16x).
+
 ## ✨ Features
 - Connected hotbar
 - Edited menu buttons
