@@ -41,6 +41,6 @@ I am grateful for every contribution!
 ## 🔗 Links
 
 * [Modrinth](https://modrinth.com/resourcepack/felineification-fork)
+* [CurseForge](https://www.curseforge.com/minecraft/texture-packs/felineification-fork)
 * [Discord](https://discord.gg/jEBnF3ugSJ)
 * [VK](https://vk.com/demipr)
-* [CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/felineification-fork)
