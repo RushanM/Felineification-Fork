@@ -1,7 +1,7 @@
 # Felineification Fork
 
 <div align="center">
-    <img title="Less distinguishable ore outlines, long swords, vanilla-like apples" src="https://cdn.modrinth.com/data/nd5ZIH7m/images/0edc02b9e096ae597a9ba4da3afe800cb8b00b37.png">
+    <img title="" src="Misc/Gallery header.png">
     <br>
     <br>
     <a href="https://modrinth.com/mod/dynamicpack"><img title="Good mod, good dev ❤️" src="Misc/dynamicpack_cozy_en_vector.svg"></a>
