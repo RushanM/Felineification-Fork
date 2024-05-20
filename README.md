@@ -1,11 +1,10 @@
 # Felineification Fork
-
 <div align="center">
     <img title="" src="Misc/Gallery header.png">
     <br>
     <br>
-    <a href="https://modrinth.com/mod/dynamicpack"><img title="Good mod, good dev ❤️" src="Misc/dynamicpack_cozy_en_vector.svg"></a>
-    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Very user-friendly mod" src="Misc/brps_cozy_en_vector.svg"></a>
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Good mod, good dev ❤️" height="55" src="Misc/dynamicpack_cozy_en_vector.svg"></a>
+    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Very user-friendly mod" height="55" src="Misc/brps_cozy_en_vector.svg"></a>
     <br>
     <br>
 </div>
@@ -26,7 +25,6 @@ A modified version of [**Felineification 16x**](https://modrinth.com/resourcepac
 - [🏞️ Better Resource Pack Sorting](https://modrinth.com/mod/better-resource-pack-sorting)
 - [➡️ DynamicPack](https://modrinth.com/mod/dynamicpack)
 - [🗺️ Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
-
 
 ## 📛 Credits
 I do not claim any rights to [**Felineification 16x**](https://modrinth.com/resourcepack/felineification-16x), as it belongs to [**zir**](https://modrinth.com/user/zir). I just wanted to customize it to better suit my own preferences.
