@@ -32,7 +32,7 @@ I do not claim any rights to [**Felineification 16x**](https://modrinth.com/reso
 ## 💝 Support My Work
 If you enjoy my work and feel inclined to support me financially, you can do so through the following links:
 * [Boosty](https://boosty.to/rushanm)
-* [VK Pay](https://vk.me/moneysend/deflecta)
+* [VK Donut](https://vk.com/deflcomm?w=donut_payment-71906125&levelId=106)
 * [Donation Alerts](https://www.donationalerts.com/r/deflecta)
 * [YooMoney](https://yoomoney.ru/to/410015215253910)
 
